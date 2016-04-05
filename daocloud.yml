@@ -5,9 +5,9 @@ services:
 
 env:
     - DAO_TEST = "True"
-    - MYSQL_INSTANCE_NAME = "test"
-    - MYSQL_USERNAME = "root"
-    - MYSQL_PASSWORD = ""
+    - MYSQL_INSTANCE_NAME = "DOMaGLPyzjiCI5be"
+    - MYSQL_USERNAME = "ulrZDeEvdBjgRmVQ"
+    - MYSQL_PASSWORD = "pWqUjsbe7NTlaGxc5"
 
 install:
     - pip install coverage
